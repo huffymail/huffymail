@@ -1,5 +1,7 @@
+import { Text } from '@mantine/core'
+
 export default function Page () {
   return (
-    <p>Hello, world!</p>
+    <Text>Hello, world!</Text>
   )
 }
